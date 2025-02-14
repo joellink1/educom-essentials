@@ -64,6 +64,9 @@
                 <mxCell id="21" value="Terug naar startscherm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="80" y="340" width="420" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="23" value="welk drankje is gekozen?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="367" y="169" width="60" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
