@@ -1,0 +1,133 @@
+<mxfile host="65bd71144e">
+    <diagram id="JyyyrVvZgXuTjFmwfZ9q" name="Page-1">
+        <mxGraphModel dx="585" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Pak koffiemok in hand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Loop naar voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="90" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Open voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="140" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Stap uit voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="190" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Zet voordeur op een kier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="240" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Loop naar voordeur buurvrouw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="290" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="bel aan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="340" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="390" width="290" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=corner;whiteSpace=wrap;html=1;dx=40;dy=50;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="390" width="290" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Zolang deur niet open is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="400" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="335" width="40" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="wacht" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="480" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="stop met wachten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="480" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="450" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="wachttijd &amp;lt; 1 minuut" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="440" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="nee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="450" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="vraag voor melk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="530" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="loop terug naar eigen voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="530" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="stap door eigen voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="580" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="sluit eigen voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="630" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="drink koffie zonder melk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="680" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="geef koffiemok aan buurvrouw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="580" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Neem koffiemok aan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="40" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Ik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Buurvrouw" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Loop naar keuken" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="90" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Zet koffiemok op aanrecht" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="140" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Loop naar koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="190" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Open deur van koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="240" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Pak melk uit koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="290" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Loop naar koffiemok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="340" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Loop naar koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="530" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=corner;whiteSpace=wrap;html=1;dx=40;dy=50;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="390" width="290" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Zolang te weinig melk in koffie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="400" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Schud melk in koffie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="440" width="250" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Zet melk in koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="580" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Sluit deur van koelkast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="630" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Loop naar koffiemok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="680" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Pak koffiemok vast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="730" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Loop naar voordeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="780" width="290" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Geef koffiemok aan buurvrouw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="830" width="290" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
